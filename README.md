@@ -172,9 +172,9 @@ Contents
   + [scipy-ref-0.17.0.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/scipy-ref-0.17.0.pdf)
   
 * [R Programming Language](https://github.com/hamedzarei/StudyBook/blob/master/RBooks)
-  + [2011, The Art of R Programming](https://github.com/hamedzarei/StudyBook/blob/master/RBooks/2011%2C%20The%20Art%20of%20R%20Programming)
-  + [2014, Practical Data Science with R](https://github.com/hamedzarei/StudyBook/blob/master/RBooks/2014%2C%20Practical%20Data%20Science%20with%20R)
-  + [2014, Using R for Statistics](https://github.com/hamedzarei/StudyBook/blob/master/RBooks/2014%2C%20Using%20R%20for%20Statistics)
+  + [2011, The Art of R Programming](https://github.com/hamedzarei/StudyBook/blob/master/RBooks/2011%2C%20The%20Art%20of%20R%20Programming.pdf)
+  + [2014, Practical Data Science with R](https://github.com/hamedzarei/StudyBook/blob/master/RBooks/2014%2C%20Practical%20Data%20Science%20with%20R.pdf)
+  + [2014, Using R for Statistics](https://github.com/hamedzarei/StudyBook/blob/master/RBooks/2014%2C%20Using%20R%20for%20Statistics.pdf)
   
 * [Reinforcement Learning Books](https://github.com/changwookjun/StudyBook/tree/master/ReinforcementLearningBooks)  
   + [RLAlgsInMDPs.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/RLAlgsInMDPs.pdf)
