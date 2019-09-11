@@ -153,6 +153,8 @@ Contents
     - [Lecture 13 - Linguistics.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%2013%20-%20Linguistics.pdf)      
     
 * [Python Books](https://github.com/changwookjun/StudyBook/tree/master/PythonBooks)   
+  + [2012, Python for Data Analysis](https://github.com/hamedzarei/StudyBook/blob/master/PythonBooks/2012%2C%20Python%20for%20Data%20Analysis.pdf)
+  + [Python for Kids](https://github.com/hamedzarei/StudyBook/blob/master/PythonBooks/Python%20for%20Kids.pdf)
   + [IPython Interactive Computing and Visualization Cookbook.pdf
 ](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/IPython%20Interactive%20Computing%20and%20Visualization%20Cookbook.pdf)
   + [Learn Python The Hard Way 3rd Edition free pdf download.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20free%20pdf%20download.pdf)
@@ -168,6 +170,11 @@ Contents
   + [Shaw Z.A. - Learn Python the Hard Way, 2nd Edition [2011, PDF, ENG].pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Shaw%20Z.A.%20-%20Learn%20Python%20the%20Hard%20Way%2C%202nd%20Edition%20%5B2011%2C%20PDF%2C%20ENG%5D.pdf)
   + [Understanding GIL.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Understanding%20GIL.pdf)
   + [scipy-ref-0.17.0.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/scipy-ref-0.17.0.pdf)
+  
+* [R Programming Language](https://github.com/hamedzarei/StudyBook/blob/master/RBooks)
+  + [2011, The Art of R Programming](https://github.com/hamedzarei/StudyBook/blob/master/RBooks/2011%2C%20The%20Art%20of%20R%20Programming)
+  + [2014, Practical Data Science with R](https://github.com/hamedzarei/StudyBook/blob/master/RBooks/2014%2C%20Practical%20Data%20Science%20with%20R)
+  + [2014, Using R for Statistics](https://github.com/hamedzarei/StudyBook/blob/master/RBooks/2014%2C%20Using%20R%20for%20Statistics)
   
 * [Reinforcement Learning Books](https://github.com/changwookjun/StudyBook/tree/master/ReinforcementLearningBooks)  
   + [RLAlgsInMDPs.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/RLAlgsInMDPs.pdf)
