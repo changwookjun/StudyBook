@@ -74,6 +74,8 @@ Contents
   + [Dive into DeepLearning.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Dive_into_Deep_Learning.pdf)   
   + [ee559 Deep learning](https://github.com/changwookjun/StudyBook/tree/master/DeepLearningBooks/ee559-Deeplearning)     
   + [Hands-on-Machine-Learning-with-Scikit-2E.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Hands-on-Machine-Learning-with-Scikit-2E.pdf)  
+  + [deeplearning_2019_spring.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/deeplearning_2019_spring.pdf)    
+  + [Deep-Learning-with-PyTorch.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Deep-Learning-with-PyTorch.pdf)  
 
 * [Machine Learning Books](https://github.com/changwookjun/StudyBook/tree/master/MachineLearningBooks)      
   + [30_03_atelierdatamining.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/30_03_atelierdatamining.pdf)  
@@ -123,7 +125,7 @@ Contents
   + [mml-book](https://github.com/changwookjun/StudyBook/tree/master/MathBooks/mml-book)   
   + [Mathematics for machine Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20Machine%20Learning.pdf)  
   + [MATHEMATICS FOR MACHINE LEARNING.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/mml-book.pdf)  
-
+  + [LINEAR ALGEBRA.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/LINEAR%20ALGEBRA.pdf)  
 
 * [NLP Books](https://github.com/changwookjun/StudyBook/tree/master/NLPBooks)     
   + [Applied Text Analysis with Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Applied%20Text%20Analysis%20with%20Python.pdf) 
@@ -151,7 +153,9 @@ Contents
     - [Lecture 11 - Question Answering.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%2011%20-%20Question%20Answering.pdf)   
     - [Lecture 12- Memory Lecture.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%2012-%20Memory%20Lecture.pdf)    
     - [Lecture 13 - Linguistics.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%2013%20-%20Linguistics.pdf)      
-    
+  + [Speech and Language Processing.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Speech_and_Language_Processing.pdf) 
+
+
 * [Python Books](https://github.com/changwookjun/StudyBook/tree/master/PythonBooks)   
   + [2012, Python for Data Analysis](https://github.com/hamedzarei/StudyBook/blob/master/PythonBooks/2012%2C%20Python%20for%20Data%20Analysis.pdf)
   + [Python for Kids](https://github.com/hamedzarei/StudyBook/blob/master/PythonBooks/Python%20for%20Kids.pdf)
@@ -186,7 +190,8 @@ Contents
     - [Dissecting Reinforcement Learning-Part4.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part4.pdf) 
     - [Dissecting Reinforcement Learning-Part5.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part5.pdf)   
     - [Dissecting Reinforcement Learning-Part6.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part6.pdf)   
-    - [Dissecting Reinforcement Learning-Part7.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part7.pdf)      
+    - [Dissecting Reinforcement Learning-Part7.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part7.pdf)  
+  + [AI_CRASH_COURSE.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/AI_CRASH_COURSE.pdf)   
   
   + [UCL Course on RL d.silver](https://github.com/changwookjun/StudyBook/tree/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver)
     - [Lecture 1: Introduction to Reinforcement Learning](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/intro_RL.pdf)  
